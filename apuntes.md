@@ -8,7 +8,7 @@ STAR4ALL. *La polución lumínica como “hermano pobre” de la contaminación,
 
 GITHUB. *Subir código y trabajar colaborativamente, es una plataforma de versionado.* 
 
-“scraping”: ir a una página y sacar la información que quiero de esa página. 
+SCRAPING. *Ir a una página y sacar la información que quiero de esa página.*
 
 **EN LA TERMINAL**
 
@@ -19,9 +19,6 @@ GITHUB. *Subir código y trabajar colaborativamente, es una plataforma de versio
 	.DS_Store	data		lat.js
 	bash-3.2# chmod u+x lat.js
 	bash-3.2# node lat
-	
-	*me entrega los resutados*
-	
 	bash-3.2# cd data
 	bash-3.2# ls
 	resultados-afp.csv		resultados-privacidad+datos.csv
@@ -56,6 +53,6 @@ Otros vínculos de interés:
 
 - - - - - - - - - 
 
-##### Me dejo esta idea, paralela:
+### Me dejo esta idea, paralela:
 
 Usando [la búsqueda de paquetes, con una query determinada](http://datos.gob.cl/api/3/action/package_search?q=educacion), crear un script con P5.js, que me visualizar los resultados de consultas como pginas web bien simple, con tablas.
