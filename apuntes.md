@@ -1,10 +1,10 @@
 # T A L L E R   O C T A L
 
-**Abril, 2017.**
+#### Abril, 2017
 
-Octal es un proyecto financiado por la Union Europea, por medio del programa [stars4all](http://stars4all.eu).
+**Workshop OCTAL** es un proyecto financiado por la Union Europea, por medio del programa [stars4all](http://stars4all.eu). Este workshop está a cargo de [Cris Hernandez](http://crishernandez.co/), director del proyecto OCTAL.
 
-Para el taller es necesario instalar Node.js, el que utiliza como interfaz la Terminal, donde se escribirá:
+Para participar del Workshop OCTAL necesitas [instalar Node.js](https://nodejs.org/es/download/) en tu computador. Node.js utiliza como interfaz la Terminal, donde se escribirá:
 
 	sudo -s
 	bash-3.2# cd /Users/FACO/Desktop/taller-octal-gh-pahes/FAU/noticias
@@ -18,25 +18,23 @@ Para el taller es necesario instalar Node.js, el que utiliza como interfaz la Te
 	resultados-contaminación.csv	resultados-trump.csv
 
 
-**¿¡QUÉ ES LO QUE SE ESCRIBE!?**
+**¡MÁS LENTO CEREBRITO! ¿QUÉ ES LO QUE SE ESCRIBE?**
 
-`sudo -s` - te permite ingresar como superuser/root. Conviene apuntar que: "Using the sudo command in Terminal requires a non-blank administrator password" [detalles](https://support.apple.com/en-ph/HT202035).
+`sudo -s` te permite ingresar como superuser/root. Conviene apuntar que: "Using the sudo command in Terminal requires a non-blank administrator password" [(Ver detalles)](https://support.apple.com/en-ph/HT202035).
 
-`cd` - te mete al directorio que indiques después de un espacio; puedes arrastrar la carpeta a la terminal, automáticamente se escribirá la dirección del directorio.
+`cd` te mete al directorio que indiques después de un espacio; puedes arrastrar la carpeta a la terminal, automáticamente se escribirá la dirección del directorio.
 
-`cd ..` - te saca del directorio donde te encuentres. No olvidar el espacio entre el `cd` y los `..`.
+`cd ..` te saca del directorio donde te encuentres. No olvidar el espacio entre el `cd` y los `..`.
 
-`ls` - te muestra los contenidos del directorio en donde te encuentres.
+`ls` te muestra los contenidos del directorio en donde te encuentres.
 
-`chmod u+x` - te permite modificar los permisos a un documento, ejemplo: `chmod u+x lat.js`
+`chmod u+x` te permite modificar los permisos a un documento, ejemplo: `chmod u+x lat.js`
 
-`cat` - te muestra los contenidos de un documento, ejemplo: `cat semaforos.csv`
+`cat` te muestra los contenidos de un documento, ejemplo: `cat semaforos.csv`
 
-Pueden encontrar más sobre el terminal en este [Mac Terminal Cheat Sheet](https://gist.github.com/poopsplat/7195274)
+Pueden encontrar más datos sobre la Terminal en este [Mac Terminal Cheat Sheet](https://gist.github.com/poopsplat/7195274)
 
-Ahora, con los resultados que me entreguen los js, después de ejecutados, podemos hacer una visualización descriptiva: *Visualización descriptiva es una visualización simple, que me ayuda a saber qué me están diciendo los datos.* 
-
-[RAW](http://app.rawgraphs.io/) es una buena herramienta para ese tipo de visualización.
+Ahora, con los resultados que me entreguen los programas, podemos hacer una visualización descriptiva: *Visualización descriptiva es una visualización simple, que me ayuda a saber qué me están diciendo los datos.* [RAW](http://app.rawgraphs.io/), desarrollado por el Design Density, es una buena herramienta para ese tipo de visualización.
 
 - - - - - - - - - - -
 
