@@ -2,7 +2,7 @@
 
 #### Abril, 2017
 
-**Workshop OCTAL** es un proyecto financiado por la Union Europea, por medio del programa [stars4all](http://stars4all.eu). Este workshop está a cargo de [Cris Hernandez](http://crishernandez.co/), director del proyecto OCTAL.
+**Workshop OCTAL** es financiado por la Union Europea, por medio del programa [stars4all](http://stars4all.eu). Este workshop está a cargo de [Cris Hernandez](http://crishernandez.co/), director del proyecto OCTAL.
 
 Para participar del Workshop OCTAL necesitas [instalar Node.js](https://nodejs.org/es/download/) en tu computador. Node.js utiliza como interfaz la Terminal, donde se escribirá:
 
