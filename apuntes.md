@@ -1,19 +1,12 @@
 # T A L L E R   O C T A L
 
-**Sábado 1 de abril, 2017.**
+**Abril, 2017.**
 
-Octal es un proyecto financiado por la UE, por medio del programa [stars4all](http://stars4all.eu).
+Octal es un proyecto financiado por la Union Europea, por medio del programa [stars4all](http://stars4all.eu).
 
-STAR4ALL. *La polución lumínica como “hermano pobre” de la contaminación, pero genera efectos importante del cual se buscar generar conciencia este programa.*
-
-GITHUB. *Subir código y trabajar colaborativamente, es una plataforma de versionado.* 
-
-SCRAPING. *Ir a una página y sacar la información que quiero de esa página.*
-
-**EN LA TERMINAL**
+Para el taller es necesario instalar Node.js, el que utiliza como interfaz la Terminal, donde se escribirá:
 
 	sudo -s
-	bash-3.2# /Users/FACO/Desktop/taller-octal-gh-pahes/FAU/noticias 
 	bash-3.2# cd /Users/FACO/Desktop/taller-octal-gh-pahes/FAU/noticias
 	bash-3.2# ls
 	.DS_Store	data		lat.js
@@ -23,15 +16,15 @@ SCRAPING. *Ir a una página y sacar la información que quiero de esa página.*
 	bash-3.2# ls
 	resultados-afp.csv		resultados-privacidad+datos.csv
 	resultados-contaminación.csv	resultados-trump.csv
-	
 
-**EXPLICANDO LO QUE SE METE EN LA TERMINAL**
 
-`sudo -s` - te da el acceso de superadministrador, después de ingresar la clave puedes continuar. Justo acá conviene saber que: "Using the sudo command in Terminal requires a non-blank administrator password" [detalles](https://support.apple.com/en-ph/HT202035).
+**¿¡QUÉ ES LO QUE SE ESCRIBE!?**
 
-`cd` - te mete al directorio. Después de un espacio debes indicar cuál es el directorio; puedes arrastrar la carpeta desde donde esté hacia el termina, automáticamente se generará la dirección que corresponde.
+`sudo -s` - te permite ingresar como superuser/root. Conviene apuntar que: "Using the sudo command in Terminal requires a non-blank administrator password" [detalles](https://support.apple.com/en-ph/HT202035).
 
-`cd ..` - te saca del directorio. No olvidar los espacios entre cd y puntos.
+`cd` - te mete al directorio que indiques después de un espacio; puedes arrastrar la carpeta a la terminal, automáticamente se escribirá la dirección del directorio.
+
+`cd ..` - te saca del directorio donde te encuentres. No olvidar el espacio entre el `cd` y los `..`.
 
 `ls` - te muestra los contenidos del directorio en donde te encuentres.
 
@@ -39,9 +32,13 @@ SCRAPING. *Ir a una página y sacar la información que quiero de esa página.*
 
 `cat` - te muestra los contenidos de un documento, ejemplo: `cat semaforos.csv`
 
+Pueden encontrar más sobre el terminal en este [Mac Terminal Cheat Sheet](https://gist.github.com/poopsplat/7195274)
+
 Ahora, con los resultados que me entreguen los js, después de ejecutados, podemos hacer una visualización descriptiva: *Visualización descriptiva es una visualización simple, que me ayuda a saber qué me están diciendo los datos.* 
 
 [RAW](http://app.rawgraphs.io/) es una buena herramienta para ese tipo de visualización.
+
+- - - - - - - - - - -
 
 Otros vínculos de interés:
 
