@@ -19,7 +19,7 @@ Las instrucciones aquí puntualizadas corresponden al registro escrito de la gu�
 
 - En terminal ejecuta **atom .** para abrir nuestro código y editarlo.
 - En la línea 120 del código escribe la palabra que escogiste: **let key = 'TU PALABRA';**
-- Ejecuta el código escribiendo en terminal: **node dis.js**. Luego presiona ENTER.
+- Ejecuta el código escribiendo en terminal: **node lat.js**. Luego presiona ENTER.
 - Si vas a la carpeta DATA, verás un archivo .CSV con palabras y su frecuencia.
 - Repite este ejercicio para las tres palabras que has escogido.
 
