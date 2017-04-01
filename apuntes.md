@@ -27,7 +27,7 @@ SCRAPING. *Ir a una página y sacar la información que quiero de esa página.*
 
 **EXPLICANDO LO QUE SE METE EN LA TERMINAL**
 
-`sudo -s` - te da el acceso de superadministrador, después de ingresar la clave puedes continuar. 
+`sudo -s` - te da el acceso de superadministrador, después de ingresar la clave puedes continuar. Justo acá conviene saber que: "Using the sudo command in Terminal requires a non-blank administrator password" [detalles](https://support.apple.com/en-ph/HT202035).
 
 `cd` - te mete al directorio. Después de un espacio debes indicar cuál es el directorio; puedes arrastrar la carpeta desde donde esté hacia el termina, automáticamente se generará la dirección que corresponde.
 
