@@ -27,21 +27,21 @@ SCRAPING. *Ir a una página y sacar la información que quiero de esa página.*
 
 **EXPLICANDO LO QUE SE METE EN LA TERMINAL**
 
-`sudo -s` te da el acceso de superadministrador, después de ingresar la clave. 
+`sudo -s` - te da el acceso de superadministrador, después de ingresar la clave puedes continuar. 
 
-`cd` te lleva al directorio, después de un espacio indica cuál es el directorio, puedes arrastrar la carpeta de
+`cd` - te mete al directorio. Después de un espacio debes indicar cuál es el directorio; puedes arrastrar la carpeta desde donde esté hacia el termina, automáticamente se generará la dirección que corresponde.
 
-`cd ..` te saca del directorio, no olvidar los espacios entre cd y puntos.
+`cd ..` - te saca del directorio. No olvidar los espacios entre cd y puntos.
 
-`ls` te muestra los contenidos del directorio 
+`ls` - te muestra los contenidos del directorio en donde te encuentres.
 
-`cat` te muestra los datos de un documento, ejemplo: `cat semaforos.csv`
+`chmod u+x` - te permite modificar los permisos a un documento, ejemplo: `chmod u+x lat.js`
 
-`chmod u+x` le entrega abre todos los permisos a un documento, ejemplo: `chmod u+x lat.js`
+`cat` - te muestra los contenidos de un documento, ejemplo: `cat semaforos.csv`
 
 Ahora, con los resultados que me entreguen los js, después de ejecutados, podemos hacer una visualización descriptiva: *Visualización descriptiva es una visualización simple, que me ayuda a saber qué me están diciendo los datos.* 
 
-Esta es buena herramienta para la visualización descriptiva: [RAW](http://app.rawgraphs.io/)
+[RAW](http://app.rawgraphs.io/) es una buena herramienta para ese tipo de visualización.
 
 Otros vínculos de interés:
 
@@ -50,9 +50,3 @@ Otros vínculos de interés:
 - [Bounding Box Tool](http://boundingbox.klokantech.com/) Metadata Enrichment for Catalogue Records by Visually Selecting Geographic Coordinates (Latitude / Longitude) for Maps
 
 - [Conjunto de datos en gob.datos.cl](http://datos.gob.cl/dataset) - Portal de Datos Abiertos - Gobierno de Chile (generado con CKAN 2.4.1)
-
-- - - - - - - - - 
-
-### Me dejo esta idea, paralela:
-
-Usando [la búsqueda de paquetes, con una query determinada](http://datos.gob.cl/api/3/action/package_search?q=educacion), crear un script con P5.js, que me visualizar los resultados de consultas como pginas web bien simple, con tablas.
