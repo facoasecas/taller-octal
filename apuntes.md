@@ -54,4 +54,8 @@ Otros vínculos de interés:
 
 - [Conjunto de datos en gob.datos.cl](http://datos.gob.cl/dataset) - Portal de Datos Abiertos - Gobierno de Chile (generado con CKAN 2.4.1)
 
-*Esta tarea es para mi: Generar un p5 que me permita hacer consultas a las bases de datos del gobierno sobre un tema específico.
+- - - - - - - - - 
+
+##### Me dejo esta idea, paralela:
+
+Usando [la búsqueda de paquetes, con una query determinada](http://datos.gob.cl/api/3/action/package_search?q=educacion), crear un script con P5.js, que me visualizar los resultados de consultas como pginas web bien simple, con tablas.
