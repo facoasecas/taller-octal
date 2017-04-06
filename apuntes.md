@@ -20,7 +20,7 @@ Para participar del Workshop OCTAL necesitas [instalar Node.js](https://nodejs.o
 
 **¡MÁS LENTO CEREBRITO! ¿QUÉ ES LO QUE SE ESCRIBE?**
 
-En caso no sepas que es Node.js, puedes leer: [Node.JS - Primeros pasos y "Hola mundo"](https://geekytheory.com/node-js-primeros-pasos-y-hola-mundo). Después de esa lectura, será más sencillo comprender lo que sigue.
+**En caso no sepas que es Node.js, puedes leer: [Node.JS - Primeros pasos y "Hola mundo"](https://geekytheory.com/node-js-primeros-pasos-y-hola-mundo). Después de esa lectura, será más sencillo comprender lo que sigue.**
 
 `sudo -s` te permite ingresar como superuser/root. Conviene apuntar que: "Using the sudo command in Terminal requires a non-blank administrator password" [(Ver detalles)](https://support.apple.com/en-ph/HT202035).
 
